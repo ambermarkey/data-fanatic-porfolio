@@ -1,2 +1,2 @@
-# data-fascination-porfolio
+# data-fanatic-porfolio
 Portfolio of projects to communicate the skills I have developed as a data analyst
