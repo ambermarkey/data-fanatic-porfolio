@@ -1,7 +1,8 @@
 # Data Science & Analytics Portfolio
 
 ## Python
-* Hurrican Analysis - Working with Dictionaries
+* Hurricane Analysis - Working with Dictionaries
+* Decoded Messages - String Manipulation
 
 ## SQL
 
