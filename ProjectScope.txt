@@ -1,0 +1,33 @@
+# Project Title: Medical Insurance Analysis
+## 1. Problem Description
+Insurance is costly and there are a number of factors that go into determining a person's insurance rates. The insurance industry uses a dataset to determine appropriate costs. For fair rates, datasets should include equal representation across all groups.
+
+## 2. Goals
+The overall goal of this analysis is to understand the equality of the data. Since the dataset I am operating from is limited, the goal of this analysis is to open up the conversation of equality in insurance rates. 
+
+## 3. Data Source
+The source of the data is from CodeAcademy and the CDC (BMI breakdown). The dataset includes insurance costs for United States adults aged 19 - 64 and includes information on BMI, region of the US, number of children, and smoking status. Additional sources of data for future analyses could include:
+* Medicare/CMS datasets
+* Private insurance rate information
+
+## 4. Analysis
+In this analysis, I am seeking to quantify the quality of the data provided by the medical insurance industry: 
+* What is the representation of males and females in the dataset? 
+* What is the representation of each, broken down by the following:
+    * Number of Children
+    * By Age Group
+    * By Region
+    * By Smoking Status
+* What is the average insurance rate for each group, broken down by Region?
+
+I plan to break the data down into groups by the following, where each range is UP TO that number:
+* Age Range:
+    * {'Age': {1: 24, 2: 29, 3: 34, 4: 39, 5: 44, 6: 49, 7: 54, 8: 59, 9: 64}}
+* Number of Children:
+    * {'Children' : {1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 6: 5}}
+* BMI:
+    * {'BMI': {'underweight': 18.5, 'Healthy': 24.9, 'Overweight': 29.9}} Obese = 30.0 and above
+* Region:
+    * {'Region': {1: 'Northeast, 2: 'Southeast', 3: 'Northwest', 4: 'Southwest'}}
+
+The dataset has been pre-cleaned and contains no null or invalid values. Therefore, there are no concerns with the integrity of the data used, assuming the cleaning process by CodeAcademy preserved the integrity.
