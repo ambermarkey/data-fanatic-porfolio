@@ -1,0 +1,48 @@
+
+The following is for the Northeast population in the insurance dataset.
+The overall average is $13406.384516385804.
+    The average cost for an underweight person in the selected population is: $8914.42392.
+    The average cost for a healthy person is: $11151.782012222224.
+    The average cost for an overweight person is: $10818.593626928576.
+    The average cost for an obese person is: $16606.762942986108.
+The total insurance charges are $4343668.583309.
+    For the population provided, there are 10 underweight individuals with total insurance charges of 89144.2392.
+    There are 72 healthy individuals with total charges of 802928.3048800001.
+    There are 98 overweight individuals with total charges of 1060222.1754390004.
+    There are 144 obese individuals with total charges of 2391373.8637899994.
+
+The following is for the Southeast population in the insurance dataset.
+The overall average is $14735.411437609893.
+    The average cost for an underweight person in the selected population is: $n/a.
+    The average cost for a healthy person is: $13286.808262250002.
+    The average cost for an overweight person is: $10846.202292000002.
+    The average cost for an obese person is: $16139.567312851408.
+The total insurance charges are $5363689.763290001.
+    For the population provided, there are 0 underweight individuals with total insurance charges of 0.
+    There are 40 healthy individuals with total charges of 531472.3304900001.
+    There are 75 overweight individuals with total charges of 813465.1719000001.
+    There are 249 obese individuals with total charges of 4018752.2609000006.
+
+The following is for the Northwest population in the insurance dataset.
+The overall average is $12417.57537396923.
+    The average cost for an underweight person in the selected population is: $9223.351214285714.
+    The average cost for a healthy person is: $10032.506793064516.
+    The average cost for an overweight person is: $11503.928782735848.
+    The average cost for an obese person is: $14198.111105999998.
+The total insurance charges are $4035711.9965399997.
+    For the population provided, there are 7 underweight individuals with total insurance charges of 64563.4585.
+    There are 62 healthy individuals with total charges of 622015.42117.
+    There are 106 overweight individuals with total charges of 1219416.45097.
+    There are 150 obese individuals with total charges of 2129716.6659.
+
+The following is for the Southwest population in the insurance dataset.
+The overall average is $12346.93737729231.
+    The average cost for an underweight person in the selected population is: $7025.584.
+    The average cost for a healthy person is: $7299.294936170213.
+    The average cost for an overweight person is: $10786.970273960396.
+    The average cost for an obese person is: $14752.031514161854.
+The total insurance charges are $4012754.647620001.
+    For the population provided, there are 4 underweight individuals with total insurance charges of 28102.336.
+    There are 47 healthy individuals with total charges of 343066.862.
+    There are 101 overweight individuals with total charges of 1089483.99767.
+    There are 173 obese individuals with total charges of 2552101.4519500006.
