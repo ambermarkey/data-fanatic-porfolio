@@ -1,0 +1,689 @@
+﻿Patient_ID,Exercise,Strive_I,Ang_APP_I,Strive_F,Ang_APP_F
+1,Seated Knee Extension,97,92,15,25
+1,Seated Knee Extension,97,88,34,45
+1,Seated Knee Extension,103,105,6,20
+1,Seated Knee Extension,107,110,20,25
+1,Seated Knee Extension,106,111,42,50
+2,Seated Knee Extension,0,10,70,76
+2,Seated Knee Extension,0,10,75,86
+2,Seated Knee Extension,0,10,81,89
+2,Seated Knee Extension,0,10,82,85
+2,Seated Knee Extension,0,10,81,86
+2,Seated Knee Extension,90,85,10,15
+2,Seated Knee Extension,110,120,14,18
+2,Seated Knee Extension,95,100,10,15
+2,Seated Knee Extension,95,100,0,7
+2,Seated Knee Extension,87,93,10,5
+3,Seated Knee Extension,96,98,26,15
+3,Seated Knee Extension,93,106,31,30
+3,Seated Knee Extension,104,110,26,23
+3,Seated Knee Extension,96,104,10,18
+3,Seated Knee Extension,111,113,20,20
+4,Seated Knee Extension,90,90,10,10
+4,Seated Knee Extension,110,110,5,5
+4,Seated Knee Extension,110,110,10,10
+4,Seated Knee Extension,105,105,0,0
+4,Seated Knee Extension,115,115,20,20
+5,Seated Knee Extension,110,108,7,11
+5,Seated Knee Extension,110,117,10,12
+5,Seated Knee Extension,111,113,10,14
+5,Seated Knee Extension,118,120,14,16
+5,Seated Knee Extension,114,118,11,16
+6,Seated Knee Extension,84.7,86.37,11.3,9.03
+6,Seated Knee Extension,85.3,86.83,16.2,11.1
+6,Seated Knee Extension,88.5,86.91,37.5,31.15
+6,Seated Knee Extension,84.7,84.38,26.2,25.08
+6,Seated Knee Extension,83.9,86.84,13.6,9.4
+7,Seated Knee Extension,84.5,84.15,19.3,19.1
+7,Seated Knee Extension,84.1,84.49,22.4,24.5
+7,Seated Knee Extension,82.8,79.54,22.4,18.7
+7,Seated Knee Extension,81.8,81.48,24,28.42
+7,Seated Knee Extension,81.2,81.66,27.4,30.93
+8,Seated Knee Extension,91.5,86.94,10.3,8.64
+8,Seated Knee Extension,95,91.73,8.6,4.3
+8,Seated Knee Extension,96.3,95.3,6,6.46
+8,Seated Knee Extension,95.9,88.93,6.8,5.86
+8,Seated Knee Extension,96.6,94.08,8,4.5
+9,Seated Knee Extension,94.2,90.13,10.4,7.57
+9,Seated Knee Extension,95.1,91.57,14,13.08
+9,Seated Knee Extension,96.2,93.84,12.3,14.13
+9,Seated Knee Extension,100.1,93.54,13.5,12.32
+9,Seated Knee Extension,98.2,93.72,13.2,12.72
+10,Seated Knee Extension,99.7,102.47,17.2,19.62
+10,Seated Knee Extension,98.7,98.64,14.9,14.86
+10,Seated Knee Extension,100,98.38,22.5,21.04
+10,Seated Knee Extension,100.4,100.04,21.7,19.11
+10,Seated Knee Extension,97.6,96.75,18.8,19.73
+11,Seated Knee Extension,89,88.27,33,34.03
+11,Seated Knee Extension,88,87.13,24.4,26.49
+11,Seated Knee Extension,89.4,90.27,23.8,22.67
+11,Seated Knee Extension,86.1,84.47,23.8,25.77
+11,Seated Knee Extension,91.2,92.24,31.7,30.36
+12,Seated Knee Extension,92.6,94.35,27.8,31.04
+12,Seated Knee Extension,92.6,93.57,18.3,15.21
+12,Seated Knee Extension,91.1,95,15.5,17.76
+12,Seated Knee Extension,85.2,90.53,16.8,18.95
+12,Seated Knee Extension,82.6,83.09,15.3,16.09
+13,Seated Knee Extension,88.6,89.63,17.5,14.28
+13,Seated Knee Extension,94.1,93.28,16,15.47
+13,Seated Knee Extension,92.5,91.8,9.4,9.07
+13,Seated Knee Extension,85.2,83.62,18.3,14.25
+13,Seated Knee Extension,90,89.21,16.9,14.79
+14,Seated Knee Extension,95.7,96.07,13.2,11.51
+14,Seated Knee Extension,91.3,92.62,25.9,23.52
+14,Seated Knee Extension,85.9,82.13,22.8,25.91
+14,Seated Knee Extension,84.2,83.91,11.3,9.81
+14,Seated Knee Extension,86.5,87.34,24,24.05
+15,Seated Knee Extension,97.4,96.52,-2.6,-3.28
+15,Seated Knee Extension,104.4,101.53,-5.6,-5.35
+15,Seated Knee Extension,105.8,103.07,-0.6,-2.3
+15,Seated Knee Extension,110,106.28,-7.9,-7.68
+15,Seated Knee Extension,106.6,107.23,-9.8,-8.37
+16,Seated Knee Extension,86.5,86.4,20,20.15
+16,Seated Knee Extension,86.1,84.66,17.6,17.7
+16,Seated Knee Extension,81.5,84.56,8.6,10.13
+16,Seated Knee Extension,81.3,84.91,7.4,8.33
+16,Seated Knee Extension,83.9,81.1,6.1,8.93
+17,Seated Knee Extension,82.8,82.98,21.5,21.09
+17,Seated Knee Extension,81.6,83.33,21.3,21.21
+17,Seated Knee Extension,80.6,81.69,15.9,17.65
+17,Seated Knee Extension,85.7,83.04,23.7,23.37
+17,Seated Knee Extension,81,86.28,17.6,17.55
+18,Seated Knee Extension,78.1,72.48,12,14.49
+18,Seated Knee Extension,87.7,85.01,9.2,8.72
+18,Seated Knee Extension,85.8,83.84,12.1,7.17
+18,Seated Knee Extension,90.4,88.31,6.2,6.52
+18,Seated Knee Extension,89.2,87.07,4.6,6.65
+19,Seated Knee Extension,78.5,75.52,3.6,1.66
+19,Seated Knee Extension,92.2,93.95,2,0.66
+19,Seated Knee Extension,97.4,96.53,4.6,3.77
+19,Seated Knee Extension,96.1,95.58,1.4,2.95
+19,Seated Knee Extension,92.6,92.68,3.6,4.03
+20,Seated Knee Extension,91.2,90.28,18.8,15.41
+20,Seated Knee Extension,95.6,93.84,25.1,29.65
+20,Seated Knee Extension,97.9,92.44,26.1,24.11
+20,Seated Knee Extension,91.7,91.7,27.1,23.39
+20,Seated Knee Extension,96.8,94.42,26.2,23.25
+21,Seated Knee Extension,93.3,96.29,5,7.75
+21,Seated Knee Extension,92.4,93.57,3.3,5.36
+21,Seated Knee Extension,92.1,92.29,4.5,8.59
+21,Seated Knee Extension,94.3,93.71,2.2,3.94
+21,Seated Knee Extension,94.8,96.33,1.8,4.12
+22,Seated Knee Extension,88.9,87.21,16.1,17.2
+22,Seated Knee Extension,88.1,87.79,20.1,19.26
+22,Seated Knee Extension,95.2,96.82,18.7,19.65
+22,Seated Knee Extension,96,92.24,21.2,16.34
+22,Seated Knee Extension,95.4,92.53,15.4,15.33
+23,Seated Knee Extension,86.5,84.32,5.1,2.35
+23,Seated Knee Extension,91.5,90.26,6.4,8.92
+23,Seated Knee Extension,89.1,86.64,6.2,3.65
+23,Seated Knee Extension,91.3,89.74,6.2,6.76
+23,Seated Knee Extension,84.6,82.31,7.2,6.26
+24,Seated Knee Extension,86.8,87.63,7.7,5.79
+24,Seated Knee Extension,86.3,84.65,3.6,4.95
+24,Seated Knee Extension,84.2,85.28,2.5,1.93
+24,Seated Knee Extension,85.5,87.82,1.5,0.17
+24,Seated Knee Extension,86.5,84.3,4.6,2.69
+25,Seated Knee Extension,88.3,85.24,22.3,22.49
+25,Seated Knee Extension,89,88.44,22.9,24.64
+25,Seated Knee Extension,89.1,89.67,22.6,23.64
+25,Seated Knee Extension,91.5,90.34,26.3,28.59
+25,Seated Knee Extension,89,90.66,27.9,24.91
+26,Seated Knee Extension,56.5,59.29,-8.2,-8.82
+26,Seated Knee Extension,56.1,58.88,-6.1,-5.51
+26,Seated Knee Extension,55,52.77,-10.7,-9.53
+26,Seated Knee Extension,51,49.96,-10.1,-9.87
+26,Seated Knee Extension,46.1,44.01,-10,-8.8
+27,Seated Knee Extension,62.9,62.69,-3.5,-1.16
+27,Seated Knee Extension,68,67.29,2.2,2.26
+27,Seated Knee Extension,70.1,73.11,1.2,0.86
+27,Seated Knee Extension,72.4,73.32,2.9,3.67
+27,Seated Knee Extension,76.3,74.59,1.6,3.42
+28,Seated Knee Extension,89.7,86.78,11.1,10.35
+28,Seated Knee Extension,96.6,95.64,12.2,10.52
+28,Seated Knee Extension,103.7,100.89,13.8,10.96
+28,Seated Knee Extension,98.8,99.6,12.5,9.64
+28,Seated Knee Extension,103.6,100.68,11.9,10.54
+29,Seated Knee Extension,78.1,77.72,17.5,16.2
+29,Seated Knee Extension,88.6,88.95,18.8,18.48
+29,Seated Knee Extension,83.3,85.19,16.5,16.5
+29,Seated Knee Extension,84.7,84.21,12.7,14.95
+29,Seated Knee Extension,82.3,85.81,12.3,14.17
+30,Seated Knee Extension,90.5,88.73,3.7,5.54
+30,Seated Knee Extension,94.7,91.53,6.5,9.25
+30,Seated Knee Extension,93.6,93.09,6.1,8.51
+30,Seated Knee Extension,95.2,97.65,4.1,4.98
+30,Seated Knee Extension,96.5,95.54,4.4,7.75
+31,Seated Knee Extension,77.8,,-2,
+31,Seated Knee Extension,78.6,,-7.1,
+31,Seated Knee Extension,79.8,,-2.2,
+31,Seated Knee Extension,77.3,,-7.3,
+31,Seated Knee Extension,76.9,,-10.4,
+32,Seated Knee Extension,82.3,,11.2,
+32,Seated Knee Extension,94.3,,6.3,
+32,Seated Knee Extension,97.7,,3.1,
+32,Seated Knee Extension,97.6,,2.1,
+32,Seated Knee Extension,98.2,,5.7,
+1,Sit to Stand Squat,105,114,0,13
+1,Sit to Stand Squat,112,108,15,14
+1,Sit to Stand Squat,110,112,75,72
+1,Sit to Stand Squat,110,112,75,72
+1,Sit to Stand Squat,101,97,20,23
+2,Sit to Stand Squat,10,10,87,86
+2,Sit to Stand Squat,10,10,76,85
+2,Sit to Stand Squat,10,10,72,79
+2,Sit to Stand Squat,10,10,90,97
+2,Sit to Stand Squat,10,10,82,90
+2,Sit to Stand Squat,,,,
+2,Sit to Stand Squat,,,,
+2,Sit to Stand Squat,,,,
+2,Sit to Stand Squat,,,,
+2,Sit to Stand Squat,,,,
+3,Sit to Stand Squat,98,104,13,16
+3,Sit to Stand Squat,105,120,14,11
+3,Sit to Stand Squat,109,108,8,17
+3,Sit to Stand Squat,97,100,16,15
+3,Sit to Stand Squat,107,117,6,9
+5,Sit to Stand Squat,106,111,7,9
+5,Sit to Stand Squat,106,106,5,5
+5,Sit to Stand Squat,100,100,0,6
+5,Sit to Stand Squat,101,103,3,3
+5,Sit to Stand Squat,104,104,4,6
+6,Sit to Stand Squat,97.6,92.97,-0.7,-2.35
+6,Sit to Stand Squat,95.1,95.61,-3,-2.27
+6,Sit to Stand Squat,93,92.54,22.4,16.82
+6,Sit to Stand Squat,93.5,88.53,20.1,21.53
+6,Sit to Stand Squat,93.6,87.76,10.5,14.68
+7,Sit to Stand Squat,100.5,99.06,2.1,5.2
+7,Sit to Stand Squat,98.8,96.18,10.1,13.3
+7,Sit to Stand Squat,95,95.04,4.7,5.2
+7,Sit to Stand Squat,96.4,94.6,1.4,2.9
+7,Sit to Stand Squat,91.7,88.88,2.9,3.5
+8,Sit to Stand Squat,105.6,103.96,13.7,10.4
+8,Sit to Stand Squat,108.5,105.47,13.6,10.25
+8,Sit to Stand Squat,109.3,106.62,12.9,12.28
+8,Sit to Stand Squat,106.4,105.75,11.9,14.84
+8,Sit to Stand Squat,104.6,101.35,16,13.8
+9,Sit to Stand Squat,104.6,93.49,17.6,11.6
+9,Sit to Stand Squat,107.5,101.81,22.4,13.73
+9,Sit to Stand Squat,106.9,98.29,19.6,19.2
+9,Sit to Stand Squat,105.8,103.02,17.9,18.16
+9,Sit to Stand Squat,105.9,105.02,15.9,14.91
+10,Sit to Stand Squat,101.8,102.86,-5.5,-5.48
+10,Sit to Stand Squat,100.1,96.92,-1.5,-0.5
+10,Sit to Stand Squat,102.3,100,-1.3,-1.6
+10,Sit to Stand Squat,98.8,99.08,1.1,0.52
+10,Sit to Stand Squat,97.8,98.87,-3,-3.91
+11,Sit to Stand Squat,99.8,100.43,19.6,17.12
+11,Sit to Stand Squat,95.3,92.96,26.8,25.67
+11,Sit to Stand Squat,93.5,92.2,23.6,24.62
+11,Sit to Stand Squat,94.5,93.31,25.6,25.29
+11,Sit to Stand Squat,96.1,93.88,18,16.18
+12,Sit to Stand Squat,97.4,100.25,12.6,11.38
+12,Sit to Stand Squat,95.6,97.54,13.2,10.31
+12,Sit to Stand Squat,95.3,96.91,14.7,14.48
+12,Sit to Stand Squat,97.1,99.71,16.6,15.86
+12,Sit to Stand Squat,89,91.23,10.2,9.63
+13,Sit to Stand Squat,98.5,95.24,3.4,1.74
+13,Sit to Stand Squat,101.7,101.16,14.9,11.1
+13,Sit to Stand Squat,99,97.62,4.1,3.21
+13,Sit to Stand Squat,98.4,94.59,5.3,6.2
+13,Sit to Stand Squat,95,94.67,6.9,6.12
+14,Sit to Stand Squat,102.7,102.73,2.7,2.07
+14,Sit to Stand Squat,102.6,101.11,1.2,1.07
+14,Sit to Stand Squat,103.6,102.39,-0.5,1.44
+14,Sit to Stand Squat,99.7,98.79,0.6,1.87
+14,Sit to Stand Squat,99.8,100.72,-0.2,-0.42
+15,Sit to Stand Squat,103,105.75,-2.2,-1.6
+15,Sit to Stand Squat,105.3,103.29,-7.1,-7.93
+15,Sit to Stand Squat,104,101.17,-8.7,-8.15
+15,Sit to Stand Squat,107.3,106.47,-2.9,-3.5
+15,Sit to Stand Squat,104.5,102.72,-5,-2.51
+16,Sit to Stand Squat,98.9,98.49,-4.2,-2.75
+16,Sit to Stand Squat,103.5,101.14,3.4,2.87
+16,Sit to Stand Squat,97.1,100.29,2.2,1.15
+16,Sit to Stand Squat,98.5,100.82,1,0.52
+16,Sit to Stand Squat,100.7,101.97,0.3,1.68
+17,Sit to Stand Squat,95.5,93.09,11.6,7.48
+17,Sit to Stand Squat,94.6,94.74,8.6,6.17
+17,Sit to Stand Squat,95.2,99.24,10.1,8.66
+17,Sit to Stand Squat,94.5,98.31,10,7.84
+17,Sit to Stand Squat,96,99.19,9.1,7.71
+18,Sit to Stand Squat,100.7,101.96,3,4.93
+18,Sit to Stand Squat,101.3,97.75,0.6,-0.7
+18,Sit to Stand Squat,96.6,95.37,-0.9,-0.2
+18,Sit to Stand Squat,98.9,96.72,1.6,1.75
+18,Sit to Stand Squat,99.5,97.68,-2.7,0.73
+19,Sit to Stand Squat,95.6,94.99,-5.4,-4.87
+19,Sit to Stand Squat,97.4,99.51,1,1.32
+19,Sit to Stand Squat,95.3,96.31,1.3,0.15
+19,Sit to Stand Squat,93.3,92.81,2.2,2.98
+19,Sit to Stand Squat,96.3,95.03,-3.8,-2.58
+20,Sit to Stand Squat,102.2,92.79,27.3,15.79
+20,Sit to Stand Squat,96.8,100.66,23.4,14.41
+20,Sit to Stand Squat,92.7,97.99,21.2,20.78
+20,Sit to Stand Squat,91.1,96.55,21.8,20.73
+20,Sit to Stand Squat,85.9,97.56,22.8,11.53
+21,Sit to Stand Squat,93.3,88.85,13.3,9.02
+21,Sit to Stand Squat,95.7,97.49,13.9,12.77
+21,Sit to Stand Squat,96.5,99.22,14.2,14.15
+21,Sit to Stand Squat,96.3,98.53,14.6,14.05
+21,Sit to Stand Squat,99.2,99.19,8.7,7.01
+22,Sit to Stand Squat,99.4,102.69,12.3,11.42
+22,Sit to Stand Squat,102.9,101.69,13.2,15.41
+22,Sit to Stand Squat,97.4,100.01,11.2,10.19
+22,Sit to Stand Squat,99.5,97.75,7.3,10.6
+22,Sit to Stand Squat,100.7,102.34,7.2,5.72
+23,Sit to Stand Squat,96.2,93.66,0.3,2.16
+23,Sit to Stand Squat,96.6,94.06,8.5,10.22
+23,Sit to Stand Squat,98.3,99.73,6.6,5.89
+23,Sit to Stand Squat,100.3,100.8,7.5,6.78
+23,Sit to Stand Squat,100,100.75,10.9,11.97
+24,Sit to Stand Squat,91.4,92.34,3.3,3.96
+24,Sit to Stand Squat,92.9,90.17,4.4,3.65
+24,Sit to Stand Squat,92.3,91.58,2.6,1.2
+24,Sit to Stand Squat,88.9,89.46,,
+24,Sit to Stand Squat,,,,
+25,Sit to Stand Squat,100.7,98.48,2.7,1.18
+25,Sit to Stand Squat,98.6,99.01,2.5,2.11
+25,Sit to Stand Squat,98.3,97.72,2.5,0.75
+25,Sit to Stand Squat,99.1,98.21,0.8,1.23
+25,Sit to Stand Squat,100.4,100.1,1.3,1.82
+26,Sit to Stand Squat,NA,NA,NA,
+26,Sit to Stand Squat,NA,NA,NA,
+26,Sit to Stand Squat,NA,NA,NA,
+26,Sit to Stand Squat,NA,NA,NA,
+26,Sit to Stand Squat,NA,NA,NA,
+27,Sit to Stand Squat,85.1,89.18,0.6,2.21
+27,Sit to Stand Squat,88.7,88.9,1.6,0.88
+27,Sit to Stand Squat,89.5,93.07,0.4,1.51
+27,Sit to Stand Squat,90.5,94.21,2,2.89
+27,Sit to Stand Squat,87.6,90.72,1.5,2.37
+28,Sit to Stand Squat,99.7,97.21,9.1,9.51
+28,Sit to Stand Squat,103.5,101.47,11.8,9.29
+28,Sit to Stand Squat,102,99.27,9.9,9.91
+28,Sit to Stand Squat,103.2,100.59,13.7,10.69
+28,Sit to Stand Squat,101.8,100.36,10.3,9.13
+29,Sit to Stand Squat,88.8,90.8,5.7,5.43
+29,Sit to Stand Squat,86.5,86.3,0.8,3.27
+29,Sit to Stand Squat,85.1,85.42,0,2.62
+29,Sit to Stand Squat,87,86.69,-1.3,1.88
+29,Sit to Stand Squat,85,85.4,3.5,4.87
+30,Sit to Stand Squat,100.2,97.98,10.6,10.22
+30,Sit to Stand Squat,106.6,102.21,5.5,4.44
+30,Sit to Stand Squat,105.1,101.41,4.7,7.45
+30,Sit to Stand Squat,108,104.37,8.9,4.92
+30,Sit to Stand Squat,107.5,102.49,4.1,7.62
+31,Sit to Stand Squat,82.1,,-1.5,
+31,Sit to Stand Squat,94.7,,-0.9,
+31,Sit to Stand Squat,93.2,,1.3,
+31,Sit to Stand Squat,85.3,,1.8,
+31,Sit to Stand Squat,82,,6,
+32,Sit to Stand Squat,91.3,,4.5,
+32,Sit to Stand Squat,93.8,,-3.2,
+32,Sit to Stand Squat,91.5,,-0.1,
+32,Sit to Stand Squat,98.2,,-3.2,
+32,Sit to Stand Squat,92.6,,-4.6,
+1,Supine Heel Slide,0,17,95,102
+1,Supine Heel Slide,0,1,100,100
+1,Supine Heel Slide,0,17,118,120
+1,Supine Heel Slide,0,20,105,111
+1,Supine Heel Slide,0,10,116,120
+2,Supine Heel Slide,-1,4,100,109
+2,Supine Heel Slide,0,5,104,115
+2,Supine Heel Slide,4,15,109,118
+2,Supine Heel Slide,5,14,114,120
+2,Supine Heel Slide,0,9,118,121
+2,Supine Heel Slide,,,,
+2,Supine Heel Slide,,,,
+2,Supine Heel Slide,,,,
+2,Supine Heel Slide,,,,
+2,Supine Heel Slide,,,,
+3,Supine Heel Slide,6,4,120,115
+3,Supine Heel Slide,9,6,120,121
+3,Supine Heel Slide,10,5,120,107
+3,Supine Heel Slide,11,6,120,111
+3,Supine Heel Slide,13,5,120,118
+4,Supine Heel Slide,3,3,110,110
+4,Supine Heel Slide,3,5,100,100
+4,Supine Heel Slide,23,23,110,110
+4,Supine Heel Slide,5,5,100,100
+4,Supine Heel Slide,20,20,80,80
+5,Supine Heel Slide,1,20,120,128
+5,Supine Heel Slide,5,11,120,134
+5,Supine Heel Slide,4,8,120,133
+5,Supine Heel Slide,3,14,120,133
+5,Supine Heel Slide,4,10,120,133
+6,Supine Heel Slide,-2,-2.15,117.8,110.38
+6,Supine Heel Slide,-1.9,-0.72,112.3,110.11
+6,Supine Heel Slide,-4.6,-3.98,103.4,113.81
+6,Supine Heel Slide,-4.4,-3.83,106.9,111.18
+6,Supine Heel Slide,-7.4,-6.18,108.3,112.87
+7,Supine Heel Slide,-4.9,-2.1,102.3,104.3
+7,Supine Heel Slide,0.1,1.2,93.5,96.82
+7,Supine Heel Slide,4.1,8.2,93.6,96.5
+7,Supine Heel Slide,4.8,2.1,102.2,97.51
+8,Supine Heel Slide,6.5,4.91,123.7,130.1
+8,Supine Heel Slide,4.8,6.64,126.6,131.06
+8,Supine Heel Slide,9.9,6.23,127.5,133.91
+8,Supine Heel Slide,8,7.53,129.5,132.14
+8,Supine Heel Slide,10.8,7.63,128.1,128.19
+9,Supine Heel Slide,20.3,19.77,124.5,127.28
+9,Supine Heel Slide,17.7,16.17,124.2,128.57
+9,Supine Heel Slide,15,15.69,124.9,130.2
+9,Supine Heel Slide,16.6,16.42,132.4,129.66
+9,Supine Heel Slide,21.4,16.62,128.2,127.1
+10,Supine Heel Slide,2.9,0.01,116.1,113.48
+10,Supine Heel Slide,2.3,3.57,114.9,112
+10,Supine Heel Slide,4,4.48,118.1,114.55
+10,Supine Heel Slide,2.7,1.78,114.9,114.93
+10,Supine Heel Slide,2.8,1.85,120.1,117.8
+11,Supine Heel Slide,10.3,11.3,97.6,99.3
+11,Supine Heel Slide,10.4,8.84,97.7,96.45
+11,Supine Heel Slide,9.2,10.7,95,94.34
+11,Supine Heel Slide,11.25,11.07,97.3,96.12
+11,Supine Heel Slide,11.6,10.92,101.2,100.89
+12,Supine Heel Slide,-3.4,-0.97,67.7,70.11
+12,Supine Heel Slide,-3.4,-1.67,121,122.98
+12,Supine Heel Slide,8.1,7.91,121.4,124.08
+12,Supine Heel Slide,9.1,7.33,123,123.76
+12,Supine Heel Slide,14.7,13.17,122.5,123.54
+13,Supine Heel Slide,0.2,-4.55,129.1,130.07
+13,Supine Heel Slide,-0.8,-1.38,128.4,130.86
+13,Supine Heel Slide,0.6,-1.48,125.3,128.49
+13,Supine Heel Slide,1,-0.55,126.1,126.37
+13,Supine Heel Slide,2.7,-3.54,126.9,125.26
+14,Supine Heel Slide,-4.4,-2.95,99.2,101.36
+14,Supine Heel Slide,-5.5,-2.33,106.9,103.66
+14,Supine Heel Slide,0.3,0.36,105.6,105.09
+14,Supine Heel Slide,-8.1,-6.53,108.4,104.35
+14,Supine Heel Slide,-3.2,-2.3,114.1,117.16
+15,Supine Heel Slide,-5.5,-5.54,135.6,136.57
+15,Supine Heel Slide,-7.8,-7.97,133.8,136.1
+15,Supine Heel Slide,-4.8,-6.16,135.2,137.46
+15,Supine Heel Slide,-0.6,-0.63,132.4,133.16
+15,Supine Heel Slide,0.7,-0.78,134.1,134.05
+16,Supine Heel Slide,N/A,N/A,N/A,N/A
+16,Supine Heel Slide,N/A,N/A,N/A,N/A
+16,Supine Heel Slide,N/A,N/A,N/A,N/A
+16,Supine Heel Slide,N/A,N/A,N/A,N/A
+16,Supine Heel Slide,N/A,N/A,N/A,N/A
+17,Supine Heel Slide,5.9,10.5,122.2,122.21
+17,Supine Heel Slide,7.6,10.15,117.9,115.55
+17,Supine Heel Slide,4.5,9.7,122,120.49
+17,Supine Heel Slide,6.2,9.32,125.9,123.79
+17,Supine Heel Slide,7.4,10.21,123.6,124.47
+18,Supine Heel Slide,,,,
+18,Supine Heel Slide,,,,
+18,Supine Heel Slide,,,,
+18,Supine Heel Slide,,,,
+18,Supine Heel Slide,,,,
+19,Supine Heel Slide,,,,
+19,Supine Heel Slide,,,,
+19,Supine Heel Slide,,,,
+19,Supine Heel Slide,,,,
+19,Supine Heel Slide,,,,
+20,Supine Heel Slide,,,,
+20,Supine Heel Slide,,,,
+20,Supine Heel Slide,,,,
+20,Supine Heel Slide,,,,
+20,Supine Heel Slide,,,,
+21,Supine Heel Slide,,,,
+21,Supine Heel Slide,,,,
+21,Supine Heel Slide,,,,
+21,Supine Heel Slide,,,,
+21,Supine Heel Slide,,,,
+22,Supine Heel Slide,,,,
+22,Supine Heel Slide,,,,
+22,Supine Heel Slide,,,,
+22,Supine Heel Slide,,,,
+22,Supine Heel Slide,,,,
+23,Supine Heel Slide,,,,
+23,Supine Heel Slide,,,,
+23,Supine Heel Slide,,,,
+23,Supine Heel Slide,,,,
+23,Supine Heel Slide,,,,
+24,Supine Heel Slide,,,,
+24,Supine Heel Slide,,,,
+24,Supine Heel Slide,,,,
+24,Supine Heel Slide,,,,
+24,Supine Heel Slide,,,,
+25,Supine Heel Slide,,,,
+25,Supine Heel Slide,,,,
+25,Supine Heel Slide,,,,
+25,Supine Heel Slide,,,,
+25,Supine Heel Slide,,,,
+26,Supine Heel Slide,,,,
+26,Supine Heel Slide,,,,
+26,Supine Heel Slide,,,,
+26,Supine Heel Slide,,,,
+26,Supine Heel Slide,,,,
+27,Supine Heel Slide,,,,
+27,Supine Heel Slide,,,,
+27,Supine Heel Slide,,,,
+27,Supine Heel Slide,,,,
+27,Supine Heel Slide,,,,
+28,Supine Heel Slide,,,,
+28,Supine Heel Slide,,,,
+28,Supine Heel Slide,,,,
+28,Supine Heel Slide,,,,
+28,Supine Heel Slide,,,,
+29,Supine Heel Slide,,,,
+29,Supine Heel Slide,,,,
+29,Supine Heel Slide,,,,
+29,Supine Heel Slide,,,,
+29,Supine Heel Slide,,,,
+30,Supine Heel Slide,,,,
+30,Supine Heel Slide,,,,
+30,Supine Heel Slide,,,,
+30,Supine Heel Slide,,,,
+30,Supine Heel Slide,,,,
+31,Supine Heel Slide,-1.3,,119.9,
+31,Supine Heel Slide,-3.2,,116,
+31,Supine Heel Slide,-5.3,,128.2,
+31,Supine Heel Slide,-6.2,,134.1,
+31,Supine Heel Slide,-2.8,,137.8,
+32,Supine Heel Slide,0.6,,134.1,
+32,Supine Heel Slide,-3.7,,138.4,
+32,Supine Heel Slide,-2.6,,140.2,
+32,Supine Heel Slide,-4.1,,139.6,
+32,Supine Heel Slide,-3,,135.3,
+1,Supine Straight Leg Raise,-7,7,12,19
+1,Supine Straight Leg Raise,-7,8,10,21
+1,Supine Straight Leg Raise,-7,8,20,27
+1,Supine Straight Leg Raise,-7,9,17,35
+1,Supine Straight Leg Raise,-7,8,10,25
+2,Supine Straight Leg Raise,-6,4,30,35
+2,Supine Straight Leg Raise,-6,5,20,22
+2,Supine Straight Leg Raise,-6,6,15,25
+2,Supine Straight Leg Raise,-6,5,17,22
+2,Supine Straight Leg Raise,-6,4,19,24
+2,Supine Straight Leg Raise,,,,
+2,Supine Straight Leg Raise,,,,
+2,Supine Straight Leg Raise,,,,
+2,Supine Straight Leg Raise,,,,
+2,Supine Straight Leg Raise,,,,
+3,Supine Straight Leg Raise,0,4,30,32
+3,Supine Straight Leg Raise,0,4,20,26
+3,Supine Straight Leg Raise,0,0,24,25
+3,Supine Straight Leg Raise,0,6,30,48
+3,Supine Straight Leg Raise,0,5,25,27
+4,Supine Straight Leg Raise,0,0,20,20
+4,Supine Straight Leg Raise,0,0,28,28
+4,Supine Straight Leg Raise,0,0,25,25
+4,Supine Straight Leg Raise,0,0,15,15
+4,Supine Straight Leg Raise,0,0,10,10
+5,Supine Straight Leg Raise,0,-4,15,30
+5,Supine Straight Leg Raise,0,-2,15,20
+5,Supine Straight Leg Raise,0,-3,30,40
+5,Supine Straight Leg Raise,0,9,28,33
+5,Supine Straight Leg Raise,0,8,30,39
+6,Supine Straight Leg Raise,-4.1,-1.89,23.6,26.87
+6,Supine Straight Leg Raise,-4.2,-1.78,33.4,30.71
+6,Supine Straight Leg Raise,-2,-2.31,20.8,24
+6,Supine Straight Leg Raise,-2.7,-2.5,28.3,29.45
+6,Supine Straight Leg Raise,-2.8,-2.6,33.2,31.45
+7,Supine Straight Leg Raise,-8.4,-7.63,22.6,20.175
+7,Supine Straight Leg Raise,-7.9,-6.49,20.8,20.12
+7,Supine Straight Leg Raise,-7.1,-6.73,21,21.165
+7,Supine Straight Leg Raise,-9.9,-9,23,22.576
+7,Supine Straight Leg Raise,-9.3,-8.22,22.5,22.185
+33,Seated Knee Extension,77.9,,0.8,
+33,Seated Knee Extension,82.3,,-2.6,
+33,Seated Knee Extension,84.3,,-5.1,
+33,Seated Knee Extension,86.9,,-5,
+33,Seated Knee Extension,83.7,,-4.2,
+,Seated Knee Extension,,,,
+34,Seated Knee Extension,68.9,,-9.1,
+34,Seated Knee Extension,93.8,,-7.4,
+34,Seated Knee Extension,99.1,,-4.9,
+34,Seated Knee Extension,100,,-1.6,
+34,Seated Knee Extension,104.3,,-8.7,
+,Seated Knee Extension,,,,
+35,Seated Knee Extension,69.9,,6,
+35,Seated Knee Extension,74,,6,
+35,Seated Knee Extension,77.8,,9.2,
+35,Seated Knee Extension,76.7,,5.7,
+35,Seated Knee Extension,74,,4.4,
+,Seated Knee Extension,,,,
+36,Seated Knee Extension,68.9,,0.4,
+36,Seated Knee Extension,71.5,,-0.1,
+36,Seated Knee Extension,69.3,,-0.4,
+36,Seated Knee Extension,71,,0.1,
+36,Seated Knee Extension,71.6,,2.4,
+,Seated Knee Extension,,,,
+37,Seated Knee Extension,79.1,,-1.8,
+37,Seated Knee Extension,97.8,,0.8,
+37,Seated Knee Extension,102.1,,1.9,
+37,Seated Knee Extension,105.4,,3.1,
+37,Seated Knee Extension,108.9,,5.5,
+,Seated Knee Extension,,,,
+38,Seated Knee Extension,85.5,86.91,-2.1,-0.21
+38,Seated Knee Extension,83.3,84.27,0.1,1.64
+38,Seated Knee Extension,77.1,82.45,0.7,3.51
+38,Seated Knee Extension,79.3,80.03,5.8,4.46
+38,Seated Knee Extension,70.4,74.91,1.6,3.41
+,Seated Knee Extension,,,,
+39,Seated Knee Extension,86.1,83.86,8.2,5.66
+39,Seated Knee Extension,88.6,91.8,10,7.63
+39,Seated Knee Extension,93.2,95.38,10.8,10.95
+39,Seated Knee Extension,92.9,93.22,7.1,8.82
+39,Seated Knee Extension,88.1,92.74,10.5,11.74
+,Seated Knee Extension,,,,
+40,Seated Knee Extension,83.9,,4.5,
+40,Seated Knee Extension,85.4,,5.5,
+40,Seated Knee Extension,88.4,,6.5,
+40,Seated Knee Extension,89,,6.4,
+40,Seated Knee Extension,80.4,,4.2,
+,Seated Knee Extension,,,,
+41,Seated Knee Extension,80.7,,7.4,
+41,Seated Knee Extension,86.9,,14.2,
+41,Seated Knee Extension,82.2,,5,
+41,Seated Knee Extension,84.5,,13.2,
+41,Seated Knee Extension,84,,7.2,
+33,Sit to Stand Squat,84.9,,1.2,
+33,Sit to Stand Squat,88.2,,3.2,
+33,Sit to Stand Squat,89.1,,5.7,
+33,Sit to Stand Squat,87.7,,7.5,
+33,Sit to Stand Squat,84.5,,7.7,
+,Sit to Stand Squat,,,,
+34,Sit to Stand Squat,81,,13.5,
+34,Sit to Stand Squat,83.3,,5.9,
+34,Sit to Stand Squat,89.7,,7.4,
+34,Sit to Stand Squat,89.3,,5.5,
+34,Sit to Stand Squat,83.5,,3.3,
+,Sit to Stand Squat,,,,
+35,Sit to Stand Squat,78.3,,16.9,
+35,Sit to Stand Squat,80.4,,7,
+35,Sit to Stand Squat,74.8,,7,
+35,Sit to Stand Squat,82.1,,11,
+35,Sit to Stand Squat,82.2,,2.4,
+,Sit to Stand Squat,,,,
+36,Sit to Stand Squat,84.3,,-2.3,
+36,Sit to Stand Squat,84.4,,-0.6,
+36,Sit to Stand Squat,88.6,,1.2,
+36,Sit to Stand Squat,87.3,,-3.2,
+36,Sit to Stand Squat,87.7,,-0.1,
+,Sit to Stand Squat,,,,
+37,Sit to Stand Squat,91.6,,4.2,
+37,Sit to Stand Squat,104.4,,2.2,
+37,Sit to Stand Squat,107,,0,
+37,Sit to Stand Squat,103.5,,-1.6,
+37,Sit to Stand Squat,101.6,,-5.6,
+,Sit to Stand Squat,,,,
+38,Sit to Stand Squat,82.8,79.84,9.6,10.68
+38,Sit to Stand Squat,86.6,85.33,0.8,3.73
+38,Sit to Stand Squat,89.2,83.93,7.7,6.08
+38,Sit to Stand Squat,90.8,86.8,4.1,6.17
+38,Sit to Stand Squat,88.2,83.92,-0.5,1.23
+,Sit to Stand Squat,,,,
+39,Sit to Stand Squat,93.3,91.12,3.6,3.71
+39,Sit to Stand Squat,94.4,95.85,3.9,1.44
+39,Sit to Stand Squat,95.4,94.71,-2.6,0.25
+39,Sit to Stand Squat,95.5,95.67,5,3.82
+39,Sit to Stand Squat,91.7,90.25,-3.1,-0.22
+,Sit to Stand Squat,,,,
+40,Sit to Stand Squat,86.4,,2.3,
+40,Sit to Stand Squat,82,,-3.9,
+40,Sit to Stand Squat,80.2,,6.9,
+40,Sit to Stand Squat,83.4,,1.5,
+40,Sit to Stand Squat,83.5,,7.2,
+,Sit to Stand Squat,,,,
+41,Sit to Stand Squat,92,,2.4,
+41,Sit to Stand Squat,93.3,,1.3,
+41,Sit to Stand Squat,97.4,,0.5,
+41,Sit to Stand Squat,98.8,,2.2,
+41,Sit to Stand Squat,91.2,,4.3,
+33,Supine Heel Slide,17.7,,96.5,
+33,Supine Heel Slide,10.1,,102.5,
+33,Supine Heel Slide,16.5,,102.9,
+33,Supine Heel Slide,12.8,,101.3,
+33,Supine Heel Slide,16.7,,100.5,
+,Supine Heel Slide,,,,
+34,Supine Heel Slide,1.6,,113.8,
+34,Supine Heel Slide,0.4,,120.8,
+34,Supine Heel Slide,-1.1,,119.5,
+34,Supine Heel Slide,-0.7,,120.1,
+34,Supine Heel Slide,-5.1,,117.6,
+,Supine Heel Slide,,,,
+35,Supine Heel Slide,2.9,,110.3,
+35,Supine Heel Slide,2.9,,112.6,
+35,Supine Heel Slide,3.9,,111.1,
+35,Supine Heel Slide,3.8,,113.4,
+35,Supine Heel Slide,0.4,,112.8,
+,Supine Heel Slide,,,,
+36,Supine Heel Slide,-0.6,,125.7,
+36,Supine Heel Slide,-3.7,,132.6,
+36,Supine Heel Slide,-1.9,,120.3,
+36,Supine Heel Slide,-6.4,,121.7,
+36,Supine Heel Slide,-7.6,,121.3,
+,Supine Heel Slide,,,,
+37,Supine Heel Slide,3.6,,115.5,
+37,Supine Heel Slide,-3,,120.1,
+37,Supine Heel Slide,-5,,122.3,
+37,Supine Heel Slide,-6.7,,120.8,
+37,Supine Heel Slide,-5.8,,123.8,
+,Supine Heel Slide,,,,
+38,Supine Heel Slide,-1.1,-1.37,150,146.59
+38,Supine Heel Slide,-2.8,-4.45,141.9,139.86
+38,Supine Heel Slide,-4.1,-1.13,151.1,148.87
+38,Supine Heel Slide,-6,-3.49,147.3,145.81
+38,Supine Heel Slide,-7.5,-7.99,143.6,145.26
+,Supine Heel Slide,,,,
+39,Supine Heel Slide,9.4,8.08,122.6,127.53
+39,Supine Heel Slide,3.9,7.38,120.8,118.08
+39,Supine Heel Slide,2.5,4.12,121.4,123.68
+39,Supine Heel Slide,4.5,3.77,121.9,124.47
+39,Supine Heel Slide,3.8,4.67,121.5,124.02
+,Supine Heel Slide,,,,
+40,Supine Heel Slide,4.1,,120.9,
+40,Supine Heel Slide,3.7,,118.3,
+40,Supine Heel Slide,3.8,,121.7,
+40,Supine Heel Slide,3.7,,120.3,
+40,Supine Heel Slide,8.1,,117.2,
+,Supine Heel Slide,,,,
+41,Supine Heel Slide,0,,114.8,
+41,Supine Heel Slide,3.3,,128.3,
+41,Supine Heel Slide,-1,,116.5,
+41,Supine Heel Slide,1.7,,118.2,
+41,Supine Heel Slide,3,,116.7,
